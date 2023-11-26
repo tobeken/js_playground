@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color:#F7F4FF ;
+}
+
+.testimonial-container {
+    width: 498px;
+    height: 212px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 7px 10px 6px rgba(0, 0, 0, 0.1);
+    padding: 56px;
+    text-align: center;
+}
+
+img {
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.text {
+    color: #777676;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 0;
+}
+.username {
+    color:#2D1AFF ;
+    font-size: 16px;
+    margin-top: 8px;
+    margin: 8px;
+}
+
+.company {
+    color: #777676;
+    font-size: 16px;
+    margin: 8px;
+    
+}
